@@ -55,4 +55,4 @@ plate  1
 
 robot  1
 
-![Example](https://github.com/exhaustedkid/map-reduce/blob/main/example.pn)
+![Example](https://github.com/exhaustedkid/map-reduce/blob/main/example.png)
