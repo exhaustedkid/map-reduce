@@ -11,4 +11,9 @@ You can launch program as
 
 # Example
 ```./mapreduce -map ./word_count_map in1.txt in2.txt in3.txt out.txt```
+
 output.txt:
+
+```./mapreduce -reduce ./word_count_reduce out.txt final.txt```
+
+final.txt:
