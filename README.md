@@ -54,3 +54,5 @@ plane  1
 plate  1
 
 robot  1
+
+![Example](https://github.com/exhaustedkid/map-reduce/blob/main/example.png)
