@@ -1,0 +1,3 @@
+C:/Users/saven/CLionProjects/mapreduce/map/cmake-build-debug/CMakeFiles/map.dir
+C:/Users/saven/CLionProjects/mapreduce/map/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/saven/CLionProjects/mapreduce/map/cmake-build-debug/CMakeFiles/rebuild_cache.dir
